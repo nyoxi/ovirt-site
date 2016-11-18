@@ -12,7 +12,7 @@ wiki_last_updated: 2015-08-05
 
 You just need to execute:
 
-`yum install `[`http://resources.ovirt.org/pub/yum-repo/ovirt-release-master.rpm`](http://resources.ovirt.org/pub/yum-repo/ovirt-release-master.rpm)
+`yum install `[`http://resources.ovirt.org/pub/yum-repo/ovirt-release-master-experimental.rpm`](http://resources.ovirt.org/pub/yum-repo/ovirt-release-master-experimental.rpm)
 
 for adding all needed repositories.
 
